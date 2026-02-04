@@ -1,2 +1,2 @@
-# Atomic-Physics-and-Quantum-Computation
+# Atomic-Physics
 Atomic and laser physics; quantum information and computation
